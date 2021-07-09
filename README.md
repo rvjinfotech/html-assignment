@@ -22,3 +22,5 @@ Apis
 5. DELETE /public-api/users/123 to delete a user
 
 ![html assignment](https://user-images.githubusercontent.com/1909242/125069819-e3889600-e0d4-11eb-8540-2c0b7707c8b1.png)
+
+Note: Use javascript/jQuery to call the api
