@@ -1,5 +1,13 @@
 Public API:- https://gorest.co.in/
 
+Technologies required to build
+
+1. HTML
+2. CSS
+3. Javascript
+
+
+Details:
 1. Use api to fetch list of all the users. There should be pagination at the bottom of the page to go to specific page.
 2. With each user there will be few actions to show the detail of the user, edit the user and delete the user
 3. There should be a button at the top of the page to create new user.
