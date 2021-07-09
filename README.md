@@ -5,6 +5,7 @@ Technologies required to build
 1. HTML
 2. CSS
 3. Javascript
+4. ReactJS (Optional)
 
 
 Details:
@@ -23,4 +24,4 @@ Apis
 
 ![html assignment](https://user-images.githubusercontent.com/1909242/125069819-e3889600-e0d4-11eb-8540-2c0b7707c8b1.png)
 
-Note: Use javascript/jQuery to call the api
+Note: Use javascript/jQuery to call the api or ReactJS to get additional marks
