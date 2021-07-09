@@ -16,11 +16,11 @@ Details:
 
 
 Apis
-1. GET /public-api/users to getch list of users
-2. POST /public-api/users to create user
-3. GET /public-api/users/123 to get user details
-4. PUT /public-api/users/123 to update user details
-5. DELETE /public-api/users/123 to delete a user
+1. GET https://gorest.co.in/public-api/users to getch list of users
+2. POST https://gorest.co.in/public-api/users to create user
+3. GET https://gorest.co.in/public-api/users/123 to get user details
+4. PUT https://gorest.co.in/public-api/users/123 to update user details
+5. DELETE https://gorest.co.in/public-api/users/123 to delete a user
 
 ![html assignment](https://user-images.githubusercontent.com/1909242/125069819-e3889600-e0d4-11eb-8540-2c0b7707c8b1.png)
 
